@@ -123,16 +123,21 @@ int main(void)
   }
   /* USER CODE END 3 */
 }
+```
 
 
+## Output :
+Button off LED off condition
+![O1](https://github.com/BALA291/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/120717501/420bb040-25cb-4fac-b099-7b5691134e27)
 
-## Output screen shots of proteus  :
+Button on LED on condition
+![O2](https://github.com/BALA291/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/120717501/5114e0b9-1915-4967-b895-dbd9f93fac45)
 
 
+## Proteus layout:
 
+ ![O3](https://github.com/BALA291/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/120717501/80a14502-0022-4ee0-ae15-eb8b1733bad8)
 
-## Proteus layout(Add pdf screen shot of circuit here)
- 
  
  
  
